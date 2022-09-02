@@ -1,8 +1,8 @@
 import java.util.OptionalInt;
 
 public class Person {
-    protected final String name;
-    protected final String surname;
+    private final String name;
+    private final String surname;
     private int age;
     private String address;
 
